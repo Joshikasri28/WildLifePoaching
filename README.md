@@ -69,10 +69,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-
-Joshika Sri M
-
-LinkedIn: https://www.linkedin.com/in/joshikasrim/
-
-GitHub: https://github.com/Joshikasri28
